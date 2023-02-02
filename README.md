@@ -1,6 +1,6 @@
 # NCP 기반 Infra 구축
      NCP 기반 Infra 구축
-     WEB-WAS-DB를 Mod_jk로 연동하여, 3-Tier 웹 서비스 운영
+     WEB-WAS-DB를 Mod_proxy로 연동하여, 3-Tier 웹 서비스 운영
      
 ## 📆 진행 기간
 - 2022.08.24 ~ 2022.08.26
@@ -22,7 +22,7 @@
 ## 💁‍♂️ 담당 업무
 - NCP 구축
     - VPC, SERVER, Block Storage
-- WEB-WAS-DB를 Mod_jk로 연동하여, 3-Tier 구성
+- WEB-WAS-DB를 Mod_proxy로 연동하여, 3-Tier 구성
 
 </br>
 
@@ -32,7 +32,7 @@
 <img src="https://user-images.githubusercontent.com/117608997/215604392-9ba6c27a-f2cc-4c16-bce0-8d1a3a2c575b.png"  width="500" height="600"/>
 
 >- WEB-WAS Server에 Block Storage를 마운트하여 스토리지를 확장
->- WEB-WAS-DB를 mod_proxy로 연동
+>- WEB-WAS-DB를 Mod_proxy로 연동
 
 </br>
 
