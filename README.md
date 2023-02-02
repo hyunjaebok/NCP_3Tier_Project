@@ -28,15 +28,16 @@
 
 ## 📖 상세 내용 
 ### Infra Architecture
-<img src="https://user-images.githubusercontent.com/117608997/215604392-9ba6c27a-f2cc-4c16-bce0-8d1a3a2c575b.png  width="200" height="400"/>
 
->- 관리자는 Jumobox를 통해 웹 서비스 운영 및 관리
->- 고객은 Frontend Public IP Address을 통해 웹 서비스 이용
+<img src="https://user-images.githubusercontent.com/117608997/215604392-9ba6c27a-f2cc-4c16-bce0-8d1a3a2c575b.png"  width="500" height="600"/>
+
+>- WEB-WAS Server에 Block Storage를 마운트하여 스토리지를 확장
+>- WEB-WAS-DB를 Mod_jk로 
 
 </br>
 
 ## 🔗 구축 과정
-### - Notion Link(https://www.notion.so/Azure-Infra-ba077b92104c4a618bb163b8afecfafc)
+### - Notion Link(https://www.notion.so/NCP-Infra-3b1ed987c42148dda228e8a03e2e9c01)
 
 </br>
 
