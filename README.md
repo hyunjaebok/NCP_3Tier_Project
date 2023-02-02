@@ -22,7 +22,7 @@
 ## 💁‍♂️ 담당 업무
 - NCP 구축
     - VPC, SERVER, Block Storage
-    - WEB-WAS-DB를 Mod_jk로 연동
+- WEB-WAS-DB를 연동하여, 3-Tier 구성
 
 </br>
 
