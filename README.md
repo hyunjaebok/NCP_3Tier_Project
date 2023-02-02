@@ -32,7 +32,7 @@
 <img src="https://user-images.githubusercontent.com/117608997/215604392-9ba6c27a-f2cc-4c16-bce0-8d1a3a2c575b.png"  width="500" height="600"/>
 
 >- WEB-WAS Server에 Block Storage를 마운트하여 스토리지를 확장
->- WEB-WAS-DB를 Mod_jk로 
+>- WEB-WAS-DB를 Mod_jk로 연동
 
 </br>
 
