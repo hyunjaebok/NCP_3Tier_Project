@@ -28,7 +28,7 @@
 
 ## 📖 상세 내용 
 ### Infra Architecture
-![image](https://user-images.githubusercontent.com/117608997/215604392-9ba6c27a-f2cc-4c16-bce0-8d1a3a2c575b.png)
+<img src="https://user-images.githubusercontent.com/117608997/215604392-9ba6c27a-f2cc-4c16-bce0-8d1a3a2c575b.png  width="200" height="400"/>
 
 >- 관리자는 Jumobox를 통해 웹 서비스 운영 및 관리
 >- 고객은 Frontend Public IP Address을 통해 웹 서비스 이용
