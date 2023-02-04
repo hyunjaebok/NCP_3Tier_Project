@@ -28,6 +28,7 @@
 
 ## 📖 상세 내용 
 ### Infra Architecture
+
 <img width="565" alt="KakaoTalk_20230204_163443342" src="https://user-images.githubusercontent.com/110655823/216755586-42e4b255-0610-483b-9eea-e9b62dbcc0dc.png">
 
 >- WEB-WAS Server에 Block Storage를 마운트하여 스토리지를 확장
