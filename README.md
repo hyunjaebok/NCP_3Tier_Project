@@ -37,7 +37,7 @@
 </br>
 
 ## 🔗 구축 과정
-### - Notion Link(https://www.notion.so/NCP-Infra-3b1ed987c42148dda228e8a03e2e9c01)
+### [- Notion Link](https://awesome-bottle-5fa.notion.site/NCP-Infra-3b1ed987c42148dda228e8a03e2e9c01)
 
 </br>
 
